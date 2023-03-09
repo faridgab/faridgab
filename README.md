@@ -21,7 +21,7 @@
 ### About me
 Hi there!
 I am junior data analyst.
-My main background is related to corporate finance: finance planning, management accounting and modeling.
+My main/primary background is related to corporate finance: finance planning, management accounting and modeling.
 Last year I decided to find out myself in Big Data. This was the reason for learning 'Data analyst' programm with Yandex.Practicum. Let's see what will happen.
   
 
