@@ -1,4 +1,4 @@
-![Header](https://github.com/faridgab/faridgab/blob/main/NAME.png)
+
 
 ### Обо мне
 Привет!
@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:faridgab@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/faridgab)
 
-![Header](https://github.com/faridgab/faridgab/blob/main/NAME_ENG.png)
+
 
 ### About me
 Hi there!
