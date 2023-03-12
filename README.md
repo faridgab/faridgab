@@ -15,7 +15,7 @@
 ### Связаться со мной
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:faridgab@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/faridgab)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https:// www.linkedin.com/in/farid-gabetdinov-81793b43)
 
 
 ### About me
@@ -34,4 +34,4 @@ Last year I decided to find out myself in Big Data. This was the reason for lear
 ### Follow Me 
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:faridgab@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/faridgab)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https:// www.linkedin.com/in/farid-gabetdinov-81793b43)
